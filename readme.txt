@@ -16,3 +16,12 @@ Read 3, 4, 5, 6
 /hashes
 Submit 1, 2, 3
 Read 4, 7
+
+classes_and_objects_part1
+Submit 1, 2, 3
+classes_and_objects_part2
+Submit 1, 2
+Read 3
+inheritance
+Submit 1, 2, 3, 6
+Read 4, 8
